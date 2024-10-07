@@ -45,3 +45,5 @@ Verify new tables in phpMyAdmin.
 
 If all steps completed without errors, the App-Name online store is now operational. Test all features and functionalities. For further assistance, contact [maksim.shepeta@gmail.com](mailto:maksim.shepeta@gmail.com).
 
+<a href="https://www.buymeacoffee.com/mikkimax" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
